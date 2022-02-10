@@ -2,7 +2,7 @@
   "name": "QUICK_TRIVIA_V4",
   "description": "Open-Source bot to play songs in QUICK TRIVIA Telegram Group Voice Chat. MADE BY ADITYA OR @Sadlife56.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TEAM-PATRICIA/PatriciaMusic2.0",
+  "repository": "https://github.com/Monimukesh/quicktriviav4",
   "stack": "container",
   "buildpacks": [
    {
